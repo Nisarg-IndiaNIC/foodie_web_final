@@ -1,0 +1,24 @@
+{
+    "item": [
+        {
+            "img": "assets/pizza.png",
+            "itemname": "Pizza"
+        },
+        {
+            "img": "assets/hamburger.png",
+            "itemname": "Fast Food"
+        },
+        {
+            "img": "assets/rice.png",
+            "itemname": "Rice Bowl"
+        },
+        {
+            "img": "assets/donut.png",
+            "itemname": "Desset"
+        },
+        {
+            "img": "assets/ice.png",
+            "itemname": "Icecream"
+        }
+    ]
+}
